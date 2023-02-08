@@ -32,6 +32,10 @@
 * [One-Time Products Purchases for Woo](https://wordpress.org/plugins/wpm-only-one-buy-by-all-time-free-by-wp-masters/)
 * [Posts Navigation Links for Sections and Headings](https://wordpress.org/plugins/posts-navigation-links-for-sections-and-headings-free-by-wp-masters/)
 
+### Our Products:
+* [WP Antivirus](https://wp-antivirus.com/)
+* Extremely Fast WordPress Hosting (available [by request](mailto:sales@wp-masters.com))
+
 ### **Tech Stack**
 
 - WordPress, WooCommerce
